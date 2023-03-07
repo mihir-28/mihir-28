@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mihir-28
-- 👀 I’m interested in AI, ML, Web Development (Full Stack), UI Designing.
-- 🌱 I’m currently an Undergraduate Student in Computer Science 
+- 👀 I’m Interested in Web Development (Front End).
+- 🌱 I’m Currently an Undergraduate Student in Computer Science 
 - 💞️ My Hobbies include Reading
 - 📫 You can reach me from the link in my profile.
 
