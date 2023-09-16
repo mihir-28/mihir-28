@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mihir-28
 - 👀 I’m Interested in Web Development (Front End).
-- 🌱 I’m Currently an Undergraduate Student in Computer Science 
+- 🌱 I’m Currently a PostGraduate Student in Computer Science 
 - 💞️ My Hobbies include Reading
 - 📫 You can reach me from the link in my profile.
 
