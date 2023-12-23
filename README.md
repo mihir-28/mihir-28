@@ -5,11 +5,11 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://codepen.io/mihir-28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mihir-28" height="30" width="40" /></a>
-<a href="https://twitter.com/kyayaar_mihir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kyayaar_mihir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mihirnagda28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihirnagda28" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17609896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17609896" height="30" width="40" /></a>
+<a href="https://twitter.com/kyayaar_mihir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kyayaar_mihir" height="30" width="40" /></a>
 <a href="https://instagram.com/kyayaar.mihir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kyayaar.mihir" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17609896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17609896" height="30" width="40" /></a>
+<a href="https://codepen.io/mihir-28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mihir-28" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mihir1228" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mihir1228" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mihirnagda4587" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mihirnagda4587" height="30" width="40" /></a>
 </p>
