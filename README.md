@@ -26,15 +26,15 @@
 <br><br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mihir-28&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mihir-28&theme=omni&no-frame=true&no-bg=true&margin-w=4)
 <br><br>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=omni)
 <br><br>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mihir-28&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=mihir-28&limit=5&theme=omni&combine_all_yearly_contributions=true)
 <br><br>
 
 ### 😂 Random Dev Meme
