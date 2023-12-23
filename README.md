@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 ## 💫 About Me:
 
 🔭 I’m currently working on [PsycoTech](https://github.com/mihir-28/PsycoTech).<br>👀 I’m Interested in Web Development.<br>🌱 I’m Currently a Post Graduate Student in Computer Science.<br>💞️ My Hobbies include Reading.<br>📫 How to reach me: **mihirnagda28@gmail.com**
@@ -20,9 +21,14 @@
 <br><br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mihir-28&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mihir-28&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-28&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mihir-28&theme=radical&hide_border=false)<br>
+![](https://github-readme-stats.vercel.app/api?username=mihir-28&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mihir-28&theme=radical&hide_border=true)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-28&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br>
+<br><br>
+
+## ⚡ Activity Graph:
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mihir-28&theme=redical"/>
 <br><br>
 
 ## 🏆 GitHub Trophies
@@ -43,4 +49,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mihir-28&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
