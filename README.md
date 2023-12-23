@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 ## 💫 About Me:
 
 🔭 I’m currently working on [PsycoTech](https://github.com/mihir-28/PsycoTech).<br>👀 I’m Interested in Web Development.<br>🌱 I’m Currently a Post Graduate Student in Computer Science.<br>💞️ My Hobbies include Reading.<br>📫 How to reach me: **mihirnagda28@gmail.com**
@@ -47,7 +46,4 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mihir-28&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+[![](https://visitcount.itsvg.in/api?id=mihir-28&icon=0&color=0)](https://visitcount.itsvg.in
