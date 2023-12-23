@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-🔭 I’m currently working on [PsycoTech](https://github.com/mihir-28/PsycoTech).<br>👀 I’m Interested in Web Development.<br>🌱 I’m Currently a Post Graduate Student in Computer Science.<br>💞️ My Hobbies include Reading.<br>📫 How to reach me **mihirnagda28@gmail.com**
+🔭 I’m currently working on [PsycoTech](https://github.com/mihir-28/PsycoTech).<br>👀 I’m Interested in Web Development.<br>🌱 I’m Currently a Post Graduate Student in Computer Science.<br>💞️ My Hobbies include Reading.<br>📫 How to reach me: **mihirnagda28@gmail.com**
 <br><br>
 
 ## 🌐 Socials:
@@ -20,13 +20,13 @@
 <br><br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mihir-28&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mihir-28&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-28&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mihir-28&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mihir-28&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-28&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br><br>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mihir-28&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mihir-28&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 <br><br>
 
 ### ✍️ Random Dev Quote
@@ -35,6 +35,10 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mihir-28&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<br><br>
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mihir-28&icon=0&color=0)](https://visitcount.itsvg.in)
