@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-🔭 I’m currently working on [PsycoTech](https://github.com/mihir-28/PsycoTech).<br>👀 I’m Interested in Web Development.<br>🌱 I’m Currently a Post Graduate Student in Computer Science.<br>💞️ My Hobbies include Reading.<br>📫 How to reach me: **mihirnagda28@gmail.com**
+🔭 I’m currently learning JavaScript.<br>👀 I’m Interested in Web Development.<br>🌱 I’m Currently a Post Graduate Student in Computer Science.<br>💞️ My Hobbies include Reading.<br>📫 How to reach me: **mihirnagda28@gmail.com**
 <br><br><br>
 
 ## 🌐 Socials:
