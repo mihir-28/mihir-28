@@ -59,12 +59,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mihir-28&limit=5&theme=radical&combine_all_yearly_contributions=true)
 <br><br><br>
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br><br>
-
-## 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mihir-28&icon=0&color=0)](https://visitcount.itsvg.in)
