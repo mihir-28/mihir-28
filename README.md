@@ -65,3 +65,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mihir-28&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/mihir-28/count.svg)
