@@ -58,7 +58,7 @@
 
 ## ⚡ Activity Graph:
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=mihir-28&theme=redical"/>
-<img src="https://raw.githubusercontent.com/mihir-28/mihir-28/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/mihir-28/mihir-28/output/snake.svg" alt="Snake animation" /> -->
 <br><br>
 
 ## 🏆 GitHub Trophies
